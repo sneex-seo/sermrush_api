@@ -1,4 +1,3 @@
-# sermrush_api
 <h1>Basic usage of Semrush_api for SEO Specialists</h1>
 <h2> Русская версия </h2>
 Для использования нужно установить Python: https://www.python.org/
